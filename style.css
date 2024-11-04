@@ -51,9 +51,10 @@ nav .container{
     color: white;
     font-size: 14px;
     font-weight: 700;
+    transition: all 1s ease;
 }
 .btn:hover{
-    opacity: .7;
+    background-color: #133B5C;
 }
 .hero{
     position: relative;
